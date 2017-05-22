@@ -3,7 +3,7 @@
   * Plugin Name: Multi Blog Slider
   * Plugin URI: bhargavb.wordpress.com
   * Description: This plugin  modify content slider to pull posts from another Wordpress multi-user blog in the same install based on category. Go to widget section and put widget named "Multi Blog Slider" where ever you want. Also you can make some settings from "MBS Settings" from admin menu.
-  * Version: 1.1.1
+  * Version: 1.1.2
   * Author: Bhargav
   * Author URI: https://bhargavb.wordpress.com/
  */
