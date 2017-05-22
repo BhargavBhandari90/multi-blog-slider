@@ -3,7 +3,7 @@ Contributors: bhargavbhandari90
 Tags: multisite, slider, widget, plugin, images
 Requires at least: 4.0
 Tested up to: 4.7.4
-Stable tag: 1.1.2
+Stable tag: 1.1.3
 License: GPLv2 or later
 
 
