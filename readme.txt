@@ -2,8 +2,8 @@
 Contributors: bhargavbhandari90
 Tags: multisite, slider, widget, plugin, images
 Requires at least: 4.0
-Tested up to: 4.7.3
-Stable tag: 1.1.1
+Tested up to: 4.7.4
+Stable tag: 1.1.2
 License: GPLv2 or later
 
 
@@ -38,6 +38,9 @@ visit https://bhargavb.wordpress.com/2015/07/20/multi-blog-slider/ for detailed 
 
 == Changelog ==
 
+= 1.1.2 =
+* Deployer check
+
 = 1.1.1 =
 * Check version update
 
@@ -49,5 +52,5 @@ visit https://bhargavb.wordpress.com/2015/07/20/multi-blog-slider/ for detailed 
 
 == Upgrade Notice ==
 
-= 1.1.1 =
-* Check version update
+= 1.1.2 =
+* Added deployer file
