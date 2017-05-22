@@ -4,12 +4,12 @@
 
 # main config
 export PLUGINSLUG="multi-blog-slider"  #must match with wordpress.org plugin slug
-export MAINFILE="index.php" # this should be the name of your main php file in the wordpress plugin
+export MAINFILE="off-the-shelf.php" # this should be the name of your main php file in the wordpress plugin
 #SVNUSER="rtcamp" # your svn username
 
 ##### YOU CAN STOP EDITING HERE #####
 ##### Downlaod Common Deploy Settings #####
-wget https://raw.github.com/rtCamp/wp-plugin-bootstrap/master/deploy-common.sh
+wget https://raw.githubusercontent.com/BhargavBhandari90/deployer/master/deploy-common.sh
 
 #### Execute Deploy-Common ########
 bash deploy-common.sh
